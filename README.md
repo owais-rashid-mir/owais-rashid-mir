@@ -5,7 +5,7 @@
 Currently, I'm primarily working with NodeJS, ExpressJS, MongoDB, JavaScript, Bootstrap, HTML and CSS for developing full stack web apps. 
 In the past, I have also developed websites with PHP/MySQL stack, created native Android applications, and worked with QT for developing cross-platform desktop applications. 
 Moreover, I am well-versed in using Git and Github for version control and collaborative software development and I'm also proficient in a variety of programming languages, including C, C++, Java, JS, PHP, Python, 8086 assembly language etc.</p>
-<img align="right" alt="Coding" width="200" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="180" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais-rashid-mir&label=Profile%20views&color=0e75b6&style=flat" alt="owais-rashid-mir" /> </p>
 
