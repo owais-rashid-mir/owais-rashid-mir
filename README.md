@@ -25,10 +25,11 @@ Moreover, I am well-versed in using Git and GitHub for version control and colla
 
 ---
 
+<h4> Owais R Mir's Top Programming languages: </h4>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=owais-rashid-mir&theme=radical&layout=compact&langs_count=14" alt="Owais's Top Languages" style="width: 500px;" />
 
 ---
-
+<h4> Owais R Mir's Github Streak: </h4>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=owais-rashid-mir&theme=radical" alt="Owais's GitHub Streak" style="width: 500px;" />
 
 ---
