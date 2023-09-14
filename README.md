@@ -1,20 +1,23 @@
 <p align="center"><img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" alt="MasterHead"></p>
 <h1 align="center">Hi 👋, I'm Owais Rashid Mir</h1>
-<p align="center">Hi there! I'm Owais, and I possess a great enthusiasm for programming, a keen interest in technology, and thoroughly enjoy creating projects from the ground up. I enjoy trying out new technologies, discovering fresh approaches to tackle challenges and solve problems, while continuously expanding my capabilities, expertise, and skill set.
+<p>Hi there! I'm Owais, an enthusiastic programmer deeply passionate about technology. I enjoy trying out new technologies, discovering fresh approaches to tackle challenges and solve problems, while continuously expanding my capabilities, expertise, and skill set.
+  
+Currently, I'm pursuing my Master's degree in the Postgraduate Department of Computer Science at the University of Kashmir.
+I'm also working as a software developer(intern) with Criminal Investigation Department(CID), JK.
 
-● Currently, I'm primarily working with Django, MySQL, JavaScript, Bootstrap, HTML and CSS for developing full-stack web apps.
+● Moreover, I'm primarily working with Django, MySQL, JavaScript, Bootstrap... for developing full-stack web apps.
 
-● Additionally, I am engaged in Artificial Intelligence projects, particularly in Computer Vision and Machine Learning, employing YOLO and Python.
+● In addition, I am engaged in Artificial Intelligence projects, particularly in Computer Vision and Machine Learning, employing YOLO, OpenCV and Python.
 
 In the past, I have also:
 
-●Developed web apps with Apache/PHP/MySQL stack.
+● Developed web apps with Apache/PHP/MySQL stack.
 
-● Created native Android applications with Android Studio
+● Created native Android applications with Android Studio.
 
 ● Worked with QT for developing cross-platform desktop applications. 
 
-Moreover, I am well-versed in using Git and GitHub for version control and collaborative software development and I'm also proficient in a variety of programming languages, including C, C++, Java, JavaScript, PHP, Python, 8086 assembly language etc.</p>
+I am well-versed in using Git and GitHub for version control and collaborative software development. Furthermore, my programming expertise spans various languages, including C, C++, Java, JavaScript, PHP, Python, 8086 assembly language etc.</p>
 <img align="right" alt="Coding" width="150" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ---
