@@ -15,7 +15,7 @@ In the past, I have also:
 
 ● Created native Android applications with Android Studio.
 
-● Worked with QT for developing cross-platform desktop applications. 
+● Worked with QT to develop cross-platform desktop applications. 
 
 I am well-versed in using Git and GitHub for version control and collaborative software development. Furthermore, my programming expertise spans various languages, including C, C++, Java, JavaScript, PHP, Python, 8086 assembly language etc.</p>
 <img align="right" alt="Coding" width="150" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
