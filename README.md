@@ -3,7 +3,7 @@
 <p>Hi there! I'm Owais, an enthusiastic programmer deeply passionate about technology. I enjoy trying out new technologies, discovering fresh approaches to tackle challenges and solve problems, while continuously expanding my capabilities, expertise, and skill set.
   
 Currently, I'm pursuing my Master's degree in the Postgraduate Department of Computer Science at the University of Kashmir.
-I'm also working as a software developer(intern) with Criminal Investigation Department(CID), JK.
+I'm also working as a software developer(intern) with the Criminal Investigation Department(CID), JK.
 
 ● Moreover, I'm primarily working with Django, MySQL, JavaScript, Bootstrap... for developing full-stack web apps.
 
@@ -22,17 +22,23 @@ Furthermore, my programming expertise spans various languages, including C, C++,
 
 ---
 
+### Explore My Work:
+
+👉 Check out my work : [My Repositories](https://github.com/owais-rashid-mir?tab=repositories)
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais-rashid-mir&label=Profile%20views&color=0e75b6&style=flat" alt="owais-rashid-mir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owais-rashid-mir" alt="owais-rashid-mir" /></a> </p>
 
 ---
 
-<h4> Owais R Mir's Top Programming languages: </h4>
+### Owais R Mir's Top languages: 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=owais-rashid-mir&theme=radical&layout=compact&langs_count=14" alt="Owais's Top Languages" style="width: 500px;" />
 
 ---
-<h4> Owais R Mir's Github Streak: </h4>
+<h3> Owais R Mir's Github Streak: </h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=owais-rashid-mir&theme=radical" alt="Owais's GitHub Streak" style="width: 500px;" />
 
 ---
@@ -42,11 +48,12 @@ Furthermore, my programming expertise spans various languages, including C, C++,
 
 ---
 
-- 📫 How to reach me:  **owais.rasheed.mir@gmail.com**  |  **owais.rm@outlook.com**
-
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+● Email:  **owais.rasheed.mir@gmail.com**  |  **owais.rm@outlook.com**
+
+<p align="left">● Social media:
 <a href="https://twitter.com/owais_r_mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owaisrm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/owais-rashid-mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owais-rashid-mir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14676398/owais-r-mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="owais-r-mir" height="30" width="40" /></a>
