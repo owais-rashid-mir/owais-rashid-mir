@@ -1,9 +1,11 @@
+<!-- 
 <p align="center"><img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" alt="MasterHead"></p>
+-->
+
 <h1 align="center"> </h1>
 <p>Hi there! I'm Owais, an enthusiastic programmer deeply passionate about technology. I enjoy trying out new technologies, discovering fresh approaches to tackle challenges and solve problems, while continuously expanding my capabilities, expertise, and skill set.
   
-Currently, I'm pursuing my Master's degree in the Postgraduate Department of Computer Science at the University of Kashmir.
-I'm also working as a software developer(intern) with the Criminal Investigation Department(CID), JK.
+Currently, I'm working as a Software Developer with the Criminal Investigation Department(CID), JK.
 
 ● Moreover, I'm primarily working with Django, MySQL, JavaScript, Bootstrap... for developing full-stack web apps.
 
@@ -17,7 +19,7 @@ In the past, I have also:
 
 ● Worked with QT to develop cross-platform desktop applications. 
 
-Furthermore, my programming expertise spans various languages, including C, C++, Java, JavaScript, PHP, Python, 8086 assembly language etc. I am also well-versed in using Git and GitHub for version control and collaborative software development. </p>
+Furthermore, my programming expertise spans various languages, including C, C++, Java, JavaScript, PHP, Python, 8086 assembly language etc. </p>
 
 ---
 
