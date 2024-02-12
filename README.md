@@ -5,7 +5,7 @@
 <h1 align="center"> </h1>
 <p>Hi there! I'm Owais, an enthusiastic programmer deeply passionate about technology. I enjoy trying out new technologies, discovering fresh approaches to tackle challenges and solve problems, while continuously expanding my capabilities, expertise, and skill set.
   
-Currently, I'm working as a Software Developer with the Criminal Investigation Department(CID), JK.
+Currently, I'm working as a Software Developer with the Criminal Investigation Department (CID), JK.
 
 ● Moreover, I'm primarily working with Django, MySQL, JavaScript, Bootstrap... for developing full-stack web apps.
 
