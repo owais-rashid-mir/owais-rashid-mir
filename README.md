@@ -3,23 +3,11 @@
 -->
 
 <h1 align="center"> </h1>
-<p>Hi there! I'm Owais, an enthusiastic programmer deeply passionate about technology. I enjoy trying out new technologies, discovering fresh approaches to tackle challenges and solve problems, while continuously expanding my capabilities, expertise, and skill set.
-  
-Currently, I'm working as a Software Developer with the Criminal Investigation Department (CID), JK.
+<p> Associate Software Engineer currently working with .NET Core, C#, Angular, and PostgreSQL to build and maintain scalable, secure software solutions.
 
-● Moreover, I'm primarily working with Django, MySQL, JavaScript, Bootstrap... for developing full-stack web apps.
+Also experienced in developing applications using Django/DRF. Additionally, I work on AI (Computer Vision) projects using tools like OpenCV, TensorFlow, YOLO, SimpleCV, Keras and Python.
 
-● In addition, I am engaged in Artificial Intelligence projects, particularly in Computer Vision and Machine Learning, employing YOLO, OpenCV and Python.
-
-In the past, I have also:
-
-● Developed web apps with Apache/PHP/MySQL stack.
-
-● Created native Android applications with Android Studio.
-
-● Worked with QT to develop cross-platform desktop applications. 
-
-Furthermore, my programming expertise spans various languages, including C, C++, Java, JavaScript, PHP, Python, 8086 assembly language etc. </p>
+Previously, I have worked with technologies including the Apache/PHP/MySQL stack, Android development using Android Studio, and cross-platform desktop applications built with QT. </p>
 
 ---
 
