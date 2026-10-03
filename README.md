@@ -3,17 +3,19 @@
 -->
 
 <h1 align="center"> </h1>
-<p> Associate Software Engineer currently working with .NET Core, C#, Angular, and PostgreSQL to build and maintain scalable, secure software solutions.
+<p> Associate Software Engineer currently working with Scala, .NET Core, C#, AWS, TypeScript and Playwright to build and maintain scalable, secure software solutions, with a focus on backend development and enterprise applications.
 
-Also experienced in developing applications using Django/DRF. Additionally, I work on AI (Computer Vision) projects using tools like OpenCV, TensorFlow, YOLO, SimpleCV, Keras and Python.
+Background also includes Django/DRF for web and backend systems, and AI and Computer Vision work using OpenCV, TensorFlow, YOLO, SimpleCV, Keras, and Python.
 
-Previously, I have worked with technologies including the Apache/PHP/MySQL stack, Android development using Android Studio, and cross-platform desktop applications built with QT. </p>
+Previously worked with the Apache/PHP/MySQL stack in earlier projects. </p>
 
 ---
 
 ### Explore My Work:
 
+<!--
 👉 Check out my work : [My Repositories](https://github.com/owais-rashid-mir?tab=repositories)
+-->
 
 ---
 
@@ -42,6 +44,9 @@ Previously, I have worked with technologies including the Apache/PHP/MySQL stack
 
 ● Email:  **owais.rasheed.mir@gmail.com**  |  **owais.rm@outlook.com**
 
+● LinkedIn:  **https://linkedin.com/in/owais-rashid-mir** 
+
+<!--
 <p align="left">● Social media:
 <a href="https://twitter.com/owais_r_mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owaisrm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/owais-rashid-mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owais-rashid-mir" height="30" width="40" /></a>
@@ -50,7 +55,7 @@ Previously, I have worked with technologies including the Apache/PHP/MySQL stack
 <a href="https://instagram.com/owais.r.mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owais.r.mir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mirowais414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mirowais414" height="30" width="40" /></a>
 </p>
-
+-->
 ---
 
 <!-- 
