@@ -1,6 +1,10 @@
 <!-- 
 <p align="center"><img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" alt="MasterHead"></p>
 -->
+Work GitHub Account: https://github.com/OwaisRashidTR
+
+LinkedIn: https://linkedin.com/in/owais-rashid-mir
+
 
 <h1 align="center"> </h1>
 <p> Associate Software Engineer currently working with Scala, .NET Core, C#, AWS, TypeScript and Playwright to build and maintain scalable, secure software solutions, with a focus on backend development and enterprise applications.
@@ -11,9 +15,10 @@ Previously worked with the Apache/PHP/MySQL stack in earlier projects. </p>
 
 ---
 
+<!--
 ### Explore My Work:
 
-<!--
+
 👉 Check out my work : [My Repositories](https://github.com/owais-rashid-mir?tab=repositories)
 -->
 
